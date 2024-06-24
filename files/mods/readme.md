@@ -46,6 +46,8 @@ The veichu bearings are a cheaper alternative to the BTUs.
 They need to be press-fitted into the 3d print, as they have no screws.
 
 Print the file in the `veichu` folder.
+(There's sensor distance error on the original file. fixed file is linked below.)
+https://1drv.ms/u/s!Al5N7AuUlPV4jJkO1uuhYrEVk8k-gA?e=Uvfmfc
 
 
 ## Static Bearing Mod
